@@ -8,11 +8,10 @@ In the app.py , the functions are a little bit commented.
 
 Don't forget to install the packages required.
 
-from flask import Flask, request, jsonify
-
-
 _________________________
 
+
+from flask import Flask, request, jsonify
 import numpy as np
 import matplotlib.pyplot as plt
 import io as io
